@@ -1,4 +1,4 @@
-body {
-    margin: 0px;
-    background-color: #21262d;
+* {
+    margin: 0;
+    padding: 0;
 }
